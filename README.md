@@ -22,3 +22,19 @@ This is my learning project for the Flutter Full Stack Development course. The a
 
 ## Course
 Flutter Full Stack Development with AI-Assisted Coding
+
+## Project Structure
+
+task_manager_app/
+├── .git/              # Git repository data
+├── .gitignore         # Files to ignore in version control
+├── README.md          # Project documentation
+└── docs/              # Additional documentation (to be added)
+
+## Getting Started
+
+Coming soon! This section will include:
+- Prerequisites
+- Installation instructions
+- How to run the app
+- How to contribute
